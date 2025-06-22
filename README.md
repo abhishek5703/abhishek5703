@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   Hi, I'm <span style="color: #00ffff; text-shadow: 0 0 3px #0ff;">Abhishek Kumar</span>
 </h1>
 <h3 align="center" style="color: #cccccc;">🚀 A Passionate MERN Stack Developer</h3>
@@ -57,5 +57,5 @@
 ---
 
 ### 🎯 Currently Working On:
-- 🏡 **NestVoyage** – A property rental app like Airbnb
+- 🏡 **NestVoyage** – A property rental app like Airbnb  
 - 🎮 **Stick Hero Game** – Using HTML, CSS & JS
