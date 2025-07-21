@@ -1,13 +1,15 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hi, I'm <span style="color: #00ffff; text-shadow: 0 0 3px #0ff;">Abhishek Kumar</span>
+  Hi, I'm <span style="color:#00ffff;">Abhishek Kumar</span>
 </h1>
-<h3 align="center" style="color: #cccccc;">🚀 A Passionate MERN Stack Developer</h3>
+
+<h3 align="center">🚀 A Passionate MERN Stack Developer</h3>
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
+### 🌐 Connect with Me
+
+<p align="center">
   <a href="https://twitter.com/abhishek_8983" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
@@ -30,14 +32,15 @@
 
 ---
 
-### 🛠️ Tech Stack:
-<p align="left">
+### 🛠️ Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,mysql,tailwind,git,python" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishek5703&show_icons=true&theme=radical" height="180"/>
@@ -50,12 +53,18 @@
 
 ---
 
-### 📫 Fun Fact:
-> 💡 I love solving DSA problems and building full-stack projects just for fun and learning!  
-> ⚡ Always learning something new and exploring modern JavaScript technologies.
+### 🎯 Currently Working On
+
+- 🏡 **NestVoyage** – A full-stack property rental platform like Airbnb  
+- 🎮 **Dicey Duels** – A React based multiplayer game (UI improvements in progress)  
+- 🎓 **CareerCraft** – A MERN-based career roadmap and quiz platform
 
 ---
 
-### 🎯 Currently Working On:
-- 🏡 **NestVoyage** – A property rental app like Airbnb  
-- 🎮 **Stick Hero Game** – Using HTML, CSS & JS
+### 📫 Fun Fact
+
+> 💡 I love solving DSA problems and building full-stack projects for fun & growth!  
+> ⚡ I’m constantly exploring modern JavaScript tools and cloud services!
+
+---
+
