@@ -1,70 +1,101 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hi, I'm <span style="color:#00ffff;">Abhishek Kumar</span>
-</h1>
+<div align="center">
 
-<h3 align="center">🚀 A Passionate MERN Stack Developer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abhishek+Kumar;MERN+Stack+Developer;DSA+%7C+Full+Stack+%7C+Problem+Solver" />
+
+  <br/>
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+
+  <h3>🚀 Passionate MERN Stack Developer | Problem Solver</h3>
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/abhishek_8983" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://linkedin.com/in/abhishekkumar8983">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/abhishekkumar8983" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://twitter.com/abhishek_8983">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/abhikumar_05" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://leetcode.com/abhi_kumar05">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/abhi_kumar0507" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://codeforces.com/profile/abhi_kumar0507">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/abhi_kumar05" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://www.codechef.com/users/abhikumar_05">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/abhikumar8983" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-%2320BE54.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://auth.geeksforgeeks.org/user/abhikumar8983">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+- 🎓 **3rd Year Engineering Student**
+- 💻 Strong in **MERN Stack & Data Structures**
+- 🧠 Competitive Programming enthusiast
+- 🚀 Actively building **real-world full-stack projects**
+- 🎯 Goal: **Software Engineer (Product-based companies)**
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,mysql,tailwind,git,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,mysql,tailwind,git,python&perline=6" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description |
+|-------|------------|
+| 🏡 **NestVoyage** | Full-stack Airbnb-like rental platform |
+| 🎓 **CareerCraft** | MERN-based career roadmap & quiz platform |
+| 🎮 **Dicey Duels** | Multiplayer React dice game |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek5703&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek5703&layout=compact&theme=radical" height="180"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek5703&show_icons=true&theme=radical&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek5703&layout=compact&theme=radical&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek5703&theme=radical" height="180"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek5703&theme=radical&border_radius=10"/>
 </p>
 
 ---
 
-### 🎯 Currently Working On
+## 🎯 Currently Working On
 
-- 🏡 **NestVoyage** – A full-stack property rental platform like Airbnb  
-- 🎮 **Dicey Duels** – A React based multiplayer game (UI improvements in progress)  
-- 🎓 **CareerCraft** – A MERN-based career roadmap and quiz platform
-
----
-
-### 📫 Fun Fact
-
-> 💡 I love solving DSA problems and building full-stack projects for fun & growth!  
-> ⚡ I’m constantly exploring modern JavaScript tools and cloud services!
+- 🔹 Scaling **CareerCraft** (Auth, quizzes, dashboards)
+- 🔹 UI/UX polishing **Dicey Duels**
+- 🔹 Improving **DSA & System Design**
 
 ---
 
+## ⚡ Fun Fact
+
+> 💡 I enjoy turning complex problems into clean, scalable solutions  
+> 🚀 Code + Consistency = Growth
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨  
+⭐ *If you like my work, consider starring my repositories!*
+
+</div>
