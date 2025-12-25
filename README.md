@@ -65,13 +65,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek5703&show_icons=true&theme=radical&cache_seconds=1800)
+![Contribution Graph](https://ghchart.rshah.org/abhishek5703)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek5703&layout=compact&theme=radical&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek5703&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek5703&style=flat-square)
 
 ---
 
