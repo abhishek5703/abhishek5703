@@ -6,7 +6,7 @@
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-  <h3>Passionate MERN Stack Developer | Problem Solver</h3>
+  <h3> Developer | Problem Solver</h3>
 
 </div>
 
