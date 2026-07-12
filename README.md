@@ -39,7 +39,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **3rd Year Engineering Student**
+- 🎓 **4th Year Engineering Student**
 - 💻 Strong in **MERN Stack & Data Structures**
 - 🧠 Competitive Programming enthusiast
 - 🚀 Actively building **real-world full-stack projects**
